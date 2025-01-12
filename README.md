@@ -9,8 +9,6 @@ Still there may be few bugs which i will update with the passage of time..<br>
 Also your score is the time you survived in the game in miliseconds.<br>
 There is a bit loophole also, you can teleport to the left part just by moving out through the right and vice-versa is also true.<br>
 <br>
-Enjoy playing..<br>
-<br>
 <br>
 Game Description:<br>
 There are classes for player, rocks, laser, stars, explsosion...I have used some youtube videos to learn pygame and moreover i have learned from its documentation..<br>
@@ -33,5 +31,6 @@ That's all and now you are ready to save the universe..<br>
 Credits:<br>
 Some youtube videos like the 20 videos playlist of codewithharry to make snake game.. and many more..<br>
 Pygame documentary was also proved helpful..<br>
-<br>
+<br><br>
+Have fun..<br>
 Thanks for your time..<br>
