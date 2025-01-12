@@ -19,6 +19,9 @@ To check collisions , display score and to restart the game i have made seperate
 i have made seperate Sprite groups for meteor and lasers so that i can detect their collsion easily like meteoroids and player and meteroids and laser..<br>
 I have not specified any fps so that it remain compatible with all devices. In place of that it will make use of the general fps of the system and so that it works same on all devices i have made all movements dependent on dt time which you will see in the code.<br>
 However i have titles before any new topic and ig the code is also not so messy so you can read and you will get my idea..<br>
+I have used time to denote as score like time = pygame.time.clicks() to capture the time since the game started and the the is_over is true score = time and that's how i displayed the score..<br>
+run is for home screen and running is for the main game loop if you read the code you shouldn't get consfused..<br>
+
 <br>
 How to play:<br>
 If you are ready to run the code, the you are just some clicks away..<br>
