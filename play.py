@@ -20,7 +20,7 @@ score = 0
 clock = pygame.time.Clock()
 width, height = 1280, 720
 window = pygame.display.set_mode((width, height))
-pygame.display.set_caption('Space shooter')
+pygame.display.set_caption('Be a Messiah')
 font = pygame.font.Font('font.ttf', 40)
 text = font.render(f'Score: {score}', True, 'white')
 running = False
