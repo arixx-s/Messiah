@@ -202,7 +202,7 @@ while run:
     hometext = font.render("Messiah", True, 'white')
     hometext2 = font.render("Press o to begin", True, 'white')
     hometext_rect = hometext.get_rect(center = (width/2, height/2))
-    hometext_rect2 = hometext.get_rect(center = (width/2+30, height/2+50))
+    hometext_rect2 = hometext.get_rect(center = (width/2-60, height-100))
     window.blit(hometext, hometext_rect)
     window.blit(hometext2, hometext_rect2)
     pygame.display.update()
